@@ -4,3 +4,4 @@
 4. Select toppings
 5. Select drinks
 6. Select desserts
+7. Call pizza parlor
