@@ -5,3 +5,7 @@
 5. Select drinks
 6. Select desserts
 7. Call pizza parlor
+8. Place order.
+9. If applicable, request specifics, like
+   9a. Please make pizza extra crispy
+   9b. Please deliver garlic sauce and cheese packets
