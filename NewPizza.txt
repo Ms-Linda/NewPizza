@@ -1,3 +1,5 @@
 1. Select pizza parlor
 2. Review deals
 3. Select pizza crust type
+4. Select toppings
+5. Select drinks
